@@ -1,0 +1,11 @@
+Weather Client - Nishant Thakur
+University of Texas at Arlington - UID: 1001544591
+Lab 3 - A Weather Client Using XML
+
+Language: Python 3.6
+Liabrary: requests, json
+
+How to run the Programs from Command Prompt-
+	a. Open the Command Prompt.
+	b. Go to the Project directory using cd command.
+	c. Type- "python WeatherClient.py" and press enter.
