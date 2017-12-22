@@ -17,3 +17,4 @@ data = xml.dwml.data[1].parameters
 
 print("Dew point =", data.temperature[1].value.cdata, data.temperature[1]['units'])
 print("Wind Speed =", data.wind_speed[0].value.cdata, "km/hr")
+
