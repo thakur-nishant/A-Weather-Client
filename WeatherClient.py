@@ -3,7 +3,9 @@ Weather Client - Nishant Thakur
 University of Texas at Arlington - UID: 1001544591
 '''
 import json
+
 import requests
+
 
 #function to request for weather report which takes location coordinates as parameters
 def get_weather_report(location):
